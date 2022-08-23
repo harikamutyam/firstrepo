@@ -8,7 +8,7 @@ public class HelloWorld {
 
 
         for(int i=0; i<MAX_COUNT; i++){
-            System.out.println(i+ " -> hello harika");
+            System.out.println(i+ " -> hello jenkins");
 
         }
     }
