@@ -11,7 +11,7 @@ public class HelloWorld {
 
 
         for(int i=0; i<MAX_COUNT; i++){
-            System.out.println(i+ " -> hello jenkins with git webhook feb 2023");
+            System.out.println(i+ " -> hello jenkins with git webhook feb 2023 rebase");
 
         }
     }
