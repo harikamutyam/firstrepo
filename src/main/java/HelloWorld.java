@@ -6,7 +6,7 @@ package com.mycompany.app;
  */
 public class HelloWorld {
 
-    public static final int MAX_COUNT=15;
+    public static final int MAX_COUNT=21;
     public static void main(String[] args) {
 
 
