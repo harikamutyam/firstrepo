@@ -12,7 +12,7 @@ Parameters:
     Default: Lambda-DynamoDB-Function-CFNExample
   LambdaRoleName:
     Type: String
-    MinLength: '1'
+    MinLength: '5'
     MaxLength: '64'
     AllowedPattern: '[\w+=,.@-]+'
     Description: The name of the IAM role used as the Lambda execution role
